@@ -5,7 +5,7 @@
 ```
 ## Liunx
 ```bash
-git clone https://github.com/pojitou/minerProxy.git
+git clone https://github.com/etdn2010/minerProxy.git
 sudo chmod -R 777 minerProxy（获取权限）
 cd minerProxy
 然后运行
